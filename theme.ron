@@ -14,6 +14,6 @@
     commit_time: Rgb(0xff, 0xb8, 0x6c), // Dracula Orange
     commit_author: Rgb(0x8b, 0xe9, 0xfd), // Dracula Cyan
     danger_fg: Rgb(0xff, 0x55, 0x55), // Dracula Red
-    push_gauge_bg: Rgb(0xf1, 0xfa, 0x8c), // Dracula Yellow
-    push_gauge_fg: Reset,
+    push_gauge_bg: Rgb(0x28, 0x2a, 0x36), // Dracula Background
+    push_gauge_fg: Rgb(0xf8, 0xf8, 0xf2), // Dracula Foreground
 )
