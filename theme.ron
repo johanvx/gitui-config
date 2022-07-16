@@ -1,0 +1,19 @@
+(
+    selected_tab: Reset,
+    command_fg: Rgb(0xff, 0x79, 0xc6), // Dracula Pink
+    selection_bg: Rgb(0x44, 0x47, 0x5a), // Dracula Selected
+    cmdbar_extra_lines_bg: Rgb(0x44, 0x47, 0x5a), // Dracula Selected
+    disabled_fg: Rgb(0x62, 0x72, 0xa4), // Dracula Comment
+    diff_line_add: Rgb(0x50, 0xfa, 0x7b), // Dracula Green
+    diff_line_delete: Rgb(0xff, 0x55, 0x55), // Dracula Red
+    diff_file_added: Rgb(0x50, 0xfa, 0x7b), // Dracula Green
+    diff_file_removed: Rgb(0xff, 0x55, 0x55), // Dracula Red
+    diff_file_moved: Rgb(0xf1, 0xfa, 0x8c), // Dracula Yellow
+    diff_file_modified: Rgb(0xff, 0xb8, 0x6c), // Dracula Orange
+    commit_hash: Rgb(0xbd, 0x93, 0xf9), // Dracula Purple
+    commit_time: Rgb(0xff, 0xb8, 0x6c), // Dracula Orange
+    commit_author: Rgb(0x8b, 0xe9, 0xfd), // Dracula Cyan
+    danger_fg: Rgb(0xff, 0x55, 0x55), // Dracula Red
+    push_gauge_bg: Rgb(0xf1, 0xfa, 0x8c), // Dracula Yellow
+    push_gauge_fg: Reset,
+)
